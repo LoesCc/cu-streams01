@@ -1,0 +1,15 @@
+/Users/kasper/Projects/pre/cursus-voorbeelden/Pre.Streams.Cursus01/Pre.Streams.Cursus01.Cons/bin/Debug/net7.0/Pre.Streams.Cursus01.Cons
+/Users/kasper/Projects/pre/cursus-voorbeelden/Pre.Streams.Cursus01/Pre.Streams.Cursus01.Cons/bin/Debug/net7.0/Pre.Streams.Cursus01.Cons.deps.json
+/Users/kasper/Projects/pre/cursus-voorbeelden/Pre.Streams.Cursus01/Pre.Streams.Cursus01.Cons/bin/Debug/net7.0/Pre.Streams.Cursus01.Cons.runtimeconfig.json
+/Users/kasper/Projects/pre/cursus-voorbeelden/Pre.Streams.Cursus01/Pre.Streams.Cursus01.Cons/bin/Debug/net7.0/Pre.Streams.Cursus01.Cons.dll
+/Users/kasper/Projects/pre/cursus-voorbeelden/Pre.Streams.Cursus01/Pre.Streams.Cursus01.Cons/bin/Debug/net7.0/Pre.Streams.Cursus01.Cons.pdb
+/Users/kasper/Projects/pre/cursus-voorbeelden/Pre.Streams.Cursus01/Pre.Streams.Cursus01.Cons/obj/Debug/net7.0/Pre.Streams.Cursus01.Cons.csproj.AssemblyReference.cache
+/Users/kasper/Projects/pre/cursus-voorbeelden/Pre.Streams.Cursus01/Pre.Streams.Cursus01.Cons/obj/Debug/net7.0/Pre.Streams.Cursus01.Cons.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kasper/Projects/pre/cursus-voorbeelden/Pre.Streams.Cursus01/Pre.Streams.Cursus01.Cons/obj/Debug/net7.0/Pre.Streams.Cursus01.Cons.AssemblyInfoInputs.cache
+/Users/kasper/Projects/pre/cursus-voorbeelden/Pre.Streams.Cursus01/Pre.Streams.Cursus01.Cons/obj/Debug/net7.0/Pre.Streams.Cursus01.Cons.AssemblyInfo.cs
+/Users/kasper/Projects/pre/cursus-voorbeelden/Pre.Streams.Cursus01/Pre.Streams.Cursus01.Cons/obj/Debug/net7.0/Pre.Streams.Cursus01.Cons.csproj.CoreCompileInputs.cache
+/Users/kasper/Projects/pre/cursus-voorbeelden/Pre.Streams.Cursus01/Pre.Streams.Cursus01.Cons/obj/Debug/net7.0/Pre.Streams.Cursus01.Cons.dll
+/Users/kasper/Projects/pre/cursus-voorbeelden/Pre.Streams.Cursus01/Pre.Streams.Cursus01.Cons/obj/Debug/net7.0/refint/Pre.Streams.Cursus01.Cons.dll
+/Users/kasper/Projects/pre/cursus-voorbeelden/Pre.Streams.Cursus01/Pre.Streams.Cursus01.Cons/obj/Debug/net7.0/Pre.Streams.Cursus01.Cons.pdb
+/Users/kasper/Projects/pre/cursus-voorbeelden/Pre.Streams.Cursus01/Pre.Streams.Cursus01.Cons/obj/Debug/net7.0/Pre.Streams.Cursus01.Cons.genruntimeconfig.cache
+/Users/kasper/Projects/pre/cursus-voorbeelden/Pre.Streams.Cursus01/Pre.Streams.Cursus01.Cons/obj/Debug/net7.0/ref/Pre.Streams.Cursus01.Cons.dll
